@@ -1,17 +1,4 @@
-## Simple project using Page Object model and selenium to automate https://wikipedia.org
-### Structure:
-+ Pages
-```
-+ Base page 
-+ Login page
-+ Main page
-+ Search Results page
-```
-+ Tests:
-```
-+ Regression.feature
-+ Validation.feature
-```
+## Email project
 ### Installation
 ```
 brew install python
